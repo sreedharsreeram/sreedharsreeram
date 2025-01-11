@@ -9,7 +9,7 @@ export default function Hero() {
       <p className="text-xl md:text-2xl mb-8 animate-fade-in animation-delay-200 font-light text-gray-600 dark:text-gray-300">
         Welcome to my website! For a pdf copy of my resume, please check out this{' '}
         <a
-          href="https://drive.google.com/file/d/1eRLISzJFyLcBqa-scvGELK5Llu-msDms/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1V7weLX9XHmABhWRRaUTqCwG7o3iw28v0/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="underline hover:text-gray-800 dark:hover:text-gray-400 transition-colors"
