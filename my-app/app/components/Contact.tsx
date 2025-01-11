@@ -11,7 +11,7 @@ export default function Contact() {
           Get in Touch!
         </h2>
         <p className="text-lg mb-8 font-light text-gray-800 dark:text-gray-300">
-          I'm always open to new opportunities and collaborations. Feel free to reach out!
+          I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
         </p>
         <div className="flex justify-center space-x-6">
           <a
