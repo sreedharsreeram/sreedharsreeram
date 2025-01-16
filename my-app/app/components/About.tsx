@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import profilePicture from './pfp.jpg'; // Adjust the path as needed
+import profilePicture from './pfp.jpg'; 
 
 export default function About() {
   return (
@@ -12,20 +12,18 @@ export default function About() {
           About Me
         </h2>
         <div className="flex flex-col md:flex-row items-center md:items-start md:space-x-8">
-          {/* Image Section */}
-          <div className="flex-shrink-0 mb-6 md:mb-0 md:-ml-8 relative -mt-12">
-            <div className="w-52 h-52 rounded-full overflow-hidden border-8 border-gray-300 dark:border-gray-600 shadow-lg">
+          <div className="flex-shrink-0 mb-6 md:mb-0 relative md:-mt-12">
+            <div className="w-40 h-40 sm:w-52 sm:h-52 rounded-full overflow-hidden border-4 sm:border-8 border-gray-300 dark:border-gray-600 shadow-lg">
               <Image
                 src={profilePicture}
                 alt="Profile Picture"
-                layout="fill" // Ensures the image fills the container
-                objectFit="cover" // Makes sure the image content fits properly
+                layout="fill"
+                objectFit="cover"
               />
             </div>
           </div>
-          {/* Text Section */}
-          <div>
-            <p className="text-lg mb-6 font-light leading-relaxed text-gray-800 dark:text-gray-300">
+          <div className="text-center md:text-left">
+            <p className="text-base sm:text-lg mb-6 font-light leading-relaxed text-gray-800 dark:text-gray-300">
               Sreeram Sreedhar is a sophomore at Arizona State University where he is studying
               computer science. He is interested in web development, computer vision, and machine
               learning. He is currently working on a project that uses machine learning to predict

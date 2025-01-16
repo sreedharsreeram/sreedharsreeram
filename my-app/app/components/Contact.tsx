@@ -10,16 +10,16 @@ export default function Contact() {
         <h2 className="text-3xl md:text-4xl font-bold mb-8 tracking-tight text-gray-800 dark:text-white">
           Get in Touch!
         </h2>
-        <p className="text-lg mb-8 font-light text-gray-800 dark:text-gray-300">
+        <p className="text-base sm:text-lg mb-8 font-light text-gray-800 dark:text-gray-300">
           I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
         </p>
-        <div className="flex justify-center space-x-6">
+        <div className="flex justify-center space-x-4 sm:space-x-6">
           <a
             href="mailto:ssreedh9@asu.edu"
             className="text-gray-800 hover:text-gray-600 dark:text-gray-300 dark:hover:text-gray-400 transition-colors"
             aria-label="Email"
           >
-            <MailIcon className="w-8 h-8" />
+            <MailIcon className="w-6 h-6 sm:w-8 sm:h-8" />
           </a>
           <a
             href="https://github.com/sreedharsreeram"
@@ -28,7 +28,7 @@ export default function Contact() {
             className="text-gray-800 hover:text-gray-600 dark:text-gray-300 dark:hover:text-gray-400 transition-colors"
             aria-label="GitHub"
           >
-            <GithubIcon className="w-8 h-8" />
+            <GithubIcon className="w-6 h-6 sm:w-8 sm:h-8" />
           </a>
           <a
             href="https://linkedin.com/in/sreeram-sreedhar"
@@ -37,7 +37,7 @@ export default function Contact() {
             className="text-gray-800 hover:text-gray-600 dark:text-gray-300 dark:hover:text-gray-400 transition-colors"
             aria-label="LinkedIn"
           >
-            <LinkedinIcon className="w-8 h-8" />
+            <LinkedinIcon className="w-6 h-6 sm:w-8 sm:h-8" />
           </a>
         </div>
       </div>
