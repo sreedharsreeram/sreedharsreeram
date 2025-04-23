@@ -1,6 +1,5 @@
 hi, i'm sreeram!
 
-i am currently a research assistant @ [The Semantic Computing Lab](https://labs.engineering.asu.edu/semantics/), working on a project focused on querying semantic data using knowledge graphs that connects users with manufacturers worldwides.
 
 i also study Computer Science at Arizona State University.
 
