@@ -1,5 +1,6 @@
 hi, i'm sreeram!
 
+i am an incoming swe intern at dell technologies and a swe @ [The Semantic Computing Lab](https://labs.engineering.asu.edu/semantics/) 
 
 i also study Computer Science at Arizona State University.
 
