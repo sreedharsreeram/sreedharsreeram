@@ -8,6 +8,6 @@ currently, i'm building
 
 previously
 - founding researcher at [supermemory](https://supermemory.ai/research)
-- agentic ai research at dell technologies - gffice of the cto
+- agentic ai research at dell technologies - office of the cto
 
 please reach out on [twitter (x)](https://x.com/_ssreeram09) or email ssreedh9 [at] asu [dot] edu
