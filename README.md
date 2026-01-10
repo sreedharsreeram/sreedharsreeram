@@ -3,7 +3,7 @@ hi, i'm sreeram!
 i'm a computer science student at arizona state university
 
 currently, i'm building
-- LLM Agents for Automated Web Testing at [Semantic Computing Lab] (https://projects.engineering.asu.edu/sudokn/)
+- LLM Agents for Automated Web Testing at [Semantic Computing Lab](https://projects.engineering.asu.edu/sudokn/)
 - Web apps for global government agencies at [AWS Cloud Innovation Center](https://smartchallenges.asu.edu/)
 
 previously
