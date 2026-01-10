@@ -1,5 +1,13 @@
 hi, i'm sreeram!
 
-i am currently working on RAG research @ Supermemory. i've worked with Dell Technologies on Agentic AI Research as well.
+i'm a computer science student at arizona state university
 
-i also study Computer Science at Arizona State University.
+currently, i'm building
+- LLM Agents for Automated Web Testing at [Semantic Computing Lab] (https://projects.engineering.asu.edu/sudokn/)
+- Web apps for global government agencies at [AWS Cloud Innovation Center](https://smartchallenges.asu.edu/)
+
+previously
+- Founding Researcher at [Supermemory] (https://supermemory.ai/research)
+- Agentic AI research at Dell Technologies - Office of the CTO
+
+please reach out on [twitter (x)](https://x.com/_ssreeram09) or email ssreedh9 [at] asu [dot] edu
