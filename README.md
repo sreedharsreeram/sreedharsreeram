@@ -7,7 +7,7 @@ currently, i'm building
 - Web apps for global government agencies at [AWS Cloud Innovation Center](https://smartchallenges.asu.edu/)
 
 previously
-- Founding Researcher at [Supermemory] (https://supermemory.ai/research)
+- Founding Researcher at [Supermemory](https://supermemory.ai/research)
 - Agentic AI research at Dell Technologies - Office of the CTO
 
 please reach out on [twitter (x)](https://x.com/_ssreeram09) or email ssreedh9 [at] asu [dot] edu
