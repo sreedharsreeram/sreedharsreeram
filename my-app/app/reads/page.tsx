@@ -24,11 +24,11 @@ export default function Reads() {
   return (
     <main className="min-h-screen px-6 py-16 sm:py-24 max-w-2xl mx-auto">
       <header className="flex items-center justify-between mb-16">
-        <Link href="/" className="font-display text-sm font-medium tracking-tight text-ink">
+        <Link href="/" className="font-display text-sm font-medium tracking-tight text-ink border-b border-ink/20 hover:border-ink pb-0.5 no-underline transition-colors">
           sreeramsreedhar.me
         </Link>
         <nav className="flex gap-4 sm:gap-6 text-sm text-ink-dim">
-          <Link href="/reads" className="text-ink">
+          <Link href="/reads" className="hover:text-ink transition-colors">
             Reads
           </Link>
         </nav>
