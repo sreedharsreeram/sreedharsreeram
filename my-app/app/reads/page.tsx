@@ -31,12 +31,6 @@ export default function Reads() {
           <Link href="/reads" className="text-ink">
             Reads
           </Link>
-          <Link href="/posts" className="hover:text-ink transition-colors">
-            Posts
-          </Link>
-          <Link href="/questions" className="hover:text-ink transition-colors">
-            Questions
-          </Link>
         </nav>
       </header>
 
