@@ -12,7 +12,7 @@ export default function Home() {
           sreeramsreedhar.me
         </span>
         <nav className="flex gap-4 sm:gap-6 text-sm text-ink-dim">
-          <a href="/commonplace-book" className="hover:text-ink transition-colors">
+          <a href="/reads" className="hover:text-ink transition-colors">
             Reads
           </a>
           <a href="/posts" className="hover:text-ink transition-colors">
