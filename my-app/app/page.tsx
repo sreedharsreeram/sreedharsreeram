@@ -7,6 +7,20 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <main className="min-h-screen px-6 py-16 sm:py-24 max-w-2xl mx-auto">
+      <header className="flex items-center justify-between mb-16">
+        <span className="font-display text-sm font-medium tracking-tight text-ink">
+          sreeramsreedhar.me
+        </span>
+        <nav className="flex gap-4 sm:gap-6 text-sm text-ink-dim">
+          <a href="/commonplace-book" className="hover:text-ink transition-colors">
+            Reads
+          </a>
+          <a href="/posts" className="hover:text-ink transition-colors">
+            Posts
+          </a>
+        </nav>
+      </header>
+
       <h1 className="text-3xl sm:text-4xl font-display mb-10">
         Hi, I'm Sreeram 
       </h1>
@@ -84,14 +98,16 @@ export default function Home() {
           href="https://x.com/ssreeram09"
           target="_blank"
           rel="noopener noreferrer"
+          className="hover:text-ink transition-colors"
         >
           twitter
         </a>
-        <a href="mailto:ssreedh9@asu.edu">email</a>
+        <a href="mailto:ssreedh9@asu.edu" className="hover:text-ink transition-colors">email</a>
         <a
           href="https://github.com/sreedharsreeram"
           target="_blank"
           rel="noopener noreferrer"
+          className="hover:text-ink transition-colors"
         >
           github
         </a>
@@ -99,6 +115,7 @@ export default function Home() {
           href="https://linkedin.com/in/sreeram-sreedhar"
           target="_blank"
           rel="noopener noreferrer"
+          className="hover:text-ink transition-colors"
         >
           linkedin
         </a>
