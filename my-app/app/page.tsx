@@ -1,14 +1,14 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Sreeram Sreedhar',
+  title: 'Hi, I\'m Sreeram',
 };
 
 export default function Home() {
   return (
     <main className="min-h-screen px-6 py-16 sm:py-24 max-w-2xl mx-auto">
       <h1 className="text-3xl sm:text-4xl font-display mb-10">
-        Sreeram Sreedhar
+        Hi, I'm Sreeram 
       </h1>
 
       <div className="space-y-5 text-[15px] sm:text-base text-ink/90">
