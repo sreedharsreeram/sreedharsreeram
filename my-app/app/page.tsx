@@ -24,9 +24,9 @@ export default function Home() {
 
         <ul className="list-disc list-outside pl-5 space-y-2 text-ink/85">
         <li>
-            Context Infrastructure for LLMs at{' '}
+            Context infrastructure for LLMs at{' '}
             <a
-              href="https://supermemory.ai/research"
+              href="https://github.com/supermemoryai/supermemory"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -60,6 +60,21 @@ export default function Home() {
         <ul className="list-disc list-outside pl-5 space-y-2 text-ink/85">
           <li>
             Agentic AI research at Dell Technologies — Global Office of the CTO
+          </li>
+        </ul>
+
+        <h3 className="text-lg font-display pt-4">Technical Reports:</h3>
+
+        <ul className="list-disc list-outside pl-5 space-y-2 text-ink/85">
+          <li>
+            <a
+              href="https://supermemory.ai/research"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+            #1 on MemoryBench:
+            </a>{' '}
+             How we made Supermemory the best in latency, quality, and cost
           </li>
         </ul>
       </div>
