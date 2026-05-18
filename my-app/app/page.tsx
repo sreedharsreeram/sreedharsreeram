@@ -19,7 +19,7 @@ export default function Home() {
       </header>
 
       <h1 className="text-3xl sm:text-4xl font-display mb-10">
-        Hi, I'm Sreeram 
+        Hi, I&apos;m Sreeram 
       </h1>
 
       <div className="space-y-5 text-[15px] sm:text-base text-ink/90">
