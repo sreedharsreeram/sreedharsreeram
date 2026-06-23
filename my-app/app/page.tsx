@@ -35,7 +35,7 @@ export default function Home() {
 
         <ul className="list-disc list-outside pl-5 space-y-2 text-ink/85">
         <li>
-            Context infrastructure for LLMs at{' '}
+            Context infrastructure for agents at{' '}
             <a
               href="https://github.com/supermemoryai/supermemory"
               target="_blank"
