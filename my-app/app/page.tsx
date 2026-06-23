@@ -9,7 +9,7 @@ export default function Home() {
     <main className="min-h-screen px-6 py-16 sm:py-24 max-w-2xl mx-auto">
       <header className="flex items-center justify-between mb-16">
         <span className="font-display text-sm font-medium tracking-tight text-ink border-b border-ink/20 pb-0.5">
-          sreeramsreedhar.me
+          Sreeram Sreedhar
         </span>
         <nav className="flex gap-4 sm:gap-6 text-sm text-ink-dim">
           <a href="/reads" className="hover:text-ink transition-colors">
