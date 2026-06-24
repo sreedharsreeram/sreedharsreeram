@@ -16,6 +16,7 @@ const sections = [
     category: 'Self Help',
     books: [
       { title: 'The Alchemist', author: 'Paulo Coelho' },
+      { title: 'How to Win Friends and Influence People', author: 'Dale Carnegie' },
     ],
   },
 ];
